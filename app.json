@@ -1,14 +1,16 @@
 {
   "expo": {
-    "name": "notes",
-    "slug": "notes",
+    "name": "Notes",
+    "slug": "Notes",
+    "owner": "tancetiner",
+    "description": "This is an app for taking notes on your phone.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/notesCover.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/notesLoad.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#D1E1BC"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
